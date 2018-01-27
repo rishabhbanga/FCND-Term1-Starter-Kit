@@ -43,6 +43,7 @@ Using Anaconda consists of the following:
 ## Setup your `FCND` environment. 
 
 ```sh
+conda install -c anaconda git
 git clone https://github.com/udacity/FCND-Term1-Starter-Kit.git
 cd FCND-Term1-Starter-Kit
 ```
